@@ -9,5 +9,4 @@ Codded in HTML5 , CSS3 and JS
 <h2>Screen Gif</h2>
 
 ![](screen1.gif)
-# RedStore-I-e-Commerce-Website
-# RedStore-I-e-Commerce-Website
+
